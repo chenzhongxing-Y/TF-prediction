@@ -2,10 +2,10 @@
 ## Required dependencies
 
 * [python](https://www.python.org) (3.6.13)
-* [numpy](http://www.numpy.org/) (1.19.5). It comes pre-packaged in Anaconda.
-* [pyBigWig](https://github.com/deeptools/pyBigWig) A package for quick access to and create of bigwig files. It can be installed by:
-* [tensorflow](https://www.tensorflow.org/) (2.6.2) A popular deep learning package. It can be installed by:
-* [keras](https://keras.io/) (2.6.0) A popular deep learning package using tensorflow backend. It can be installed by:
+* [numpy](http://www.numpy.org/) (1.19.5). 
+* [pyBigWig](https://github.com/deeptools/pyBigWig) 
+* [tensorflow](https://www.tensorflow.org/) (2.6.2) 
+* [keras](https://keras.io/) (2.6.0) 
 ...
 ## Dataset
 The data in bigwig format can be directly downloaded from OSF repository 
