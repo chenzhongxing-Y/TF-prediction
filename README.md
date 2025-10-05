@@ -10,7 +10,7 @@
 ## Dataset
 The data in bigwig format can be directly downloaded from OSF repository 
 * [DNase-seq,DNA sequence,ChIP-seq GEM peak](https://osf.io/xh2wm/)
-or from our web server:
+or from  server:
 * [DNase-seq](https://guanfiles.dcmb.med.umich.edu/Leopard/dnase_bigwig/)
 * [DNA sequence](https://guanfiles.dcmb.med.umich.edu/Leopard/dna_bigwig/)
 * [ChIP-seq GEM peak](https://guanfiles.dcmb.med.umich.edu/Leopard/chipseq_gem_bigwig/)
