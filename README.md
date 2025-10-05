@@ -16,7 +16,7 @@ or from  server:
 * [ChIP-seq GEM peak](https://guanfiles.dcmb.med.umich.edu/Leopard/chipseq_gem_bigwig/)
 
 
- please download the above data (30GB) and deposit them in the "attention/data/" folder. 
+ please download the above data and deposit them in the "attention/data/" folder. 
 
 
 
