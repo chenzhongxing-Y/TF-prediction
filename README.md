@@ -3,7 +3,7 @@
 
 * [python](https://www.python.org) (3.6.13)
 * [numpy](http://www.numpy.org/) (1.19.5). 
-* [pyBigWig](https://github.com/deeptools/pyBigWig) 
+* [pyBigWig](https://github.com/deeptools/pyBigWig) （0.3.24）
 * [tensorflow](https://www.tensorflow.org/) (2.6.2) 
 * [keras](https://keras.io/) (2.6.0) 
 ...
